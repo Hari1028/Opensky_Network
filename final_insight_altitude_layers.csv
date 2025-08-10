@@ -1,0 +1,5 @@
+altitude_layer,aircraft_count
+"1. Landing / Takeoff (<2,000m)",280358
+"2. Low Altitude (2,000-8,000m)",241281
+"3. Cruising Altitude (8,000-11,000m)",300300
+"4. High Altitude (>11,000m)",176057
